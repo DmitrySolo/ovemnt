@@ -1,0 +1,5 @@
+@import "../../bower_components/typographic/scss/typographic";
+/* Typographic */
+$body-color: #7e0799;
+@include typographic;
+@include grid-overlay(blue, 1);
